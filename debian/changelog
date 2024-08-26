@@ -1,0 +1,53 @@
+ros-humble-event-camera-msgs (1.1.6-1bookworm) bookworm; urgency=high
+
+  * bumped cmake required
+  * updated documentation
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 29 May 2024 16:00:00 -0000
+
+ros-humble-event-camera-msgs (1.1.5-1bookworm) bookworm; urgency=high
+
+  * remove linter tests (bombout on galactic)
+  * fix cmake bug preventing bombout when ROS_VERSION was not set
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 08 Nov 2023 16:00:00 -0000
+
+ros-humble-event-camera-msgs (1.1.4-1bookworm) bookworm; urgency=high
+
+  * fix cmake bug preventing bombout when ROS_VERSION was not set
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 02 Aug 2023 16:00:00 -0000
+
+ros-humble-event-camera-msgs (1.1.3-1bookworm) bookworm; urgency=high
+
+  * add dependency on rosidl_default_generators and runtime
+  * added dependency on ros_environment
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 02 Aug 2023 16:00:00 -0000
+
+ros-humble-event-camera-msgs (1.1.2-1bookworm) bookworm; urgency=high
+
+
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Fri, 28 Jul 2023 16:00:00 -0000
+
+ros-humble-event-camera-msgs (1.1.1-1bookworm) bookworm; urgency=high
+
+  * bumped package version to match tag version
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Fri, 28 Jul 2023 16:00:00 -0000
+
+ros-humble-event-camera-msgs (1.1.0-1bookworm) bookworm; urgency=high
+
+  * renamed package to event_camera_msgs, msg to EventPacket
+  * initial commit
+  * Contributors: Bernd Pfrommer
+
+ -- Bernd Pfrommer <bernd.pfrommer@gmail.com>  Wed, 12 Jul 2023 16:00:00 -0000
+
+
